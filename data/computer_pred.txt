@@ -1,0 +1,445 @@
+máy tính hay máy điện toán là một máy có thể được hướng dẫn để thực hiện các chuỗi các phép toán số học hoặc logic một cách tự động thông qua lập trình máy tính
+máy tính hiện đại có khả năng tuân theo các tập hợp lệnh tổng quát
+được gọi là chương trình
+các chương trình này cho phép máy tính thực hiện một loạt các tác vụ
+một máy tính hoàn chỉnh bao gồm phần cứng
+hệ điều hành phần mềm chính và thiết bị ngoại vi cần thiết và sử dụng cho hoạt động hoàn chỉnh có thể được gọi là hệ thống máy tính
+thuật ngữ này cũng có thể được sử dụng cho một nhóm máy tính được kết nối và hoạt động cùng nhau
+cụ thể là một mạng máy tính hoặc cụm máy tính
+máy tính được sử dụng làm hệ thống điều khiển cho nhiều loại thiết bị công nghiệp và dân dụng
+điều này bao gồm các thiết bị có mục đích đặc biệt đơn giản như lò vi sóng và điều khiển từ xa
+các thiết bị nhà máy như rô bốt công nghiệp và thiết kế có sự hỗ trợ của máy tính và cả các thiết bị đa năng như máy tính cá nhân và thiết bị di động như điện thoại thông minh
+internet được chạy trên các máy tính và nó kết nối hàng trăm triệu máy tính khác và người dùng của chúng
+máy tính ban đầu chỉ được coi là thiết bị tính toán
+từ thời cổ đại
+các thiết bị thủ công đơn giản như bàn tính đã hỗ trợ con người thực hiện các phép tính
+đầu cách mạng công nghiệp
+một số thiết bị cơ khí đã được chế tạo để tự động hóa các công việc kéo dài tẻ nhạt
+chẳng hạn như hướng dẫn các mẫu cho khung dệt
+các máy điện phức tạp hơn đã thực hiện các phép tính tương tự chuyên biệt vào đầu thế kỷ
+các máy tính toán điện tử kỹ thuật số đầu tiên được phát triển trong thế chiến ii
+các bóng bán dẫn đầu tiên vào cuối những năm được tiếp nối bằng công nghệ chip mosfet bóng bán dẫn mos dựa trên silicon và mạch tích hợp nguyên khối ic vào cuối những năm
+dẫn đến cuộc cách mạng vi xử lý và vi máy tính vào những năm
+sức mạnh và tính linh hoạt của máy tính đã tăng lên đáng kể kể từ đó
+với số lượng bóng bán dẫn tăng với tốc độ nhanh chóng theo dự đoán của định luật moore
+dẫn đến cuộc cách mạng kỹ thuật số trong khoảng cuối thế kỷ đến đầu thế kỷ
+thông thường
+một máy tính hiện đại bao gồm ít nhất một phần tử xử lý
+điển hình là đơn vị xử lý trung tâm cpu dưới dạng bộ vi xử lý
+cùng với một số loại bộ nhớ máy tính
+điển hình là chip bộ nhớ bán dẫn
+phần tử xử lý thực hiện các phép toán số học và logic
+và một đơn vị điều khiển và sắp xếp trình tự có thể thay đổi thứ tự của các hoạt động theo thông tin được lưu trữ
+các thiết bị ngoại vi bao gồm thiết bị đầu vào bàn phím
+phím điều khiển
+thiết bị đầu ra màn hình điều khiển
+máy in và thiết bị đầu vào đầu ra thực hiện cả hai chức năng trên ví dụ màn hình cảm ứng từ những năm
+các thiết bị ngoại vi cho phép thông tin được truy xuất từ một nguồn bên ngoài và chúng cho phép lưu và truy xuất kết quả của các hoạt động trên máy tính
+lịch sử
+các thiết bị đã được sử dụng để hỗ trợ tính toán trong hàng nghìn năm
+chủ yếu sử dụng giao tiếp với các ngón tay
+thiết bị đếm sớm nhất có lẽ là một dạng que tính
+các công cụ hỗ trợ lưu giữ hồ sơ sau này trong suốt fertile crescent bao gồm các phép tính quả cầu đất sét
+hình nón
+thể hiện số lượng vật phẩm
+có thể là gia súc hoặc ngũ cốc
+được niêm phong trong các thùng chứa đất sét rỗng không nung
+việc sử dụng que đếm là một ví dụ
+bàn tính ban đầu được sử dụng cho các nhiệm vụ số học
+bàn tính la mã được phát triển từ các thiết bị tính toán được sử dụng ở babylonia vào đầu năm tcn
+kể từ đó
+nhiều dạng bảng hoặc bảng tính toán khác đã được phát minh
+trong một nhà tính toán ở châu âu thời trung cổ
+một tấm vải ca rô sẽ được đặt trên bàn và các điểm đánh dấu di chuyển xung quanh nó theo các quy tắc nhất định
+như một biện pháp hỗ trợ tính toán các khoản tiền
+cỗ máy antikythera được cho là máy tính tương tự cơ học sớm nhất
+theo derek j
+de solla price
+nó được thiết kế để tính toán các vị trí thiên văn
+nó được phát hiện vào năm trong xác tàu antikythera ngoài khơi đảo antikythera của hy lạp
+giữa kythera và crete
+và có niên đại là tcn
+các thiết bị có mức độ phức tạp tương đương với cỗ máy antikythera sẽ không xuất hiện trở lại cho đến một nghìn năm sau
+nhiều công cụ hỗ trợ cơ học để tính toán và đo lường đã được xây dựng để sử dụng trong thiên văn và điều hướng
+planisphere là một bản đồ phát minh vào đầu thế kỷ
+thước trắc tinh được phát minh ở thế giới hy lạp vào thế kỷ hoặc tcn và thường được cho là do hipparchus phát minh
+thước trắc tinh thực sự là một máy tính tương tự có khả năng giải quyết một số loại vấn đề khác nhau trong thiên văn học hình cầu
+thước này kết hợp một máy tính lịch cơ học và bánh răng được abi bakr ở isfahan
+ba tư phát minh vào năm
+abū rayhān al bīrūnī đã phát minh ra thước trắc tinh có lịch âm dương có hộp số cơ học đầu tiên
+một máy xử lý tri thức có dây cố định ban đầu với các bánh răng liên kết với nhau
+thước gấp
+một công cụ tính toán được sử dụng để giải các bài toán về tỷ lệ
+lượng giác
+nhân và chia
+và tính các hàm khác nhau
+chẳng hạn như bình phương và khai căn bậc hai
+được phát triển vào cuối thế kỷ và được ứng dụng trong các ngành vũ khí
+khảo sát và điều hướng
+máy đo planimeter là một công cụ thủ công để tính diện tích của một hình khép kín bằng cách đi dọc theo nó bằng một liên kết cơ học
+thước loga đã được phát minh vào khoảng năm
+ngay sau khi xuất hiện khái niệm lôgarit
+nó là một máy tính tương tự vận hành bằng tay để thực hiện các phép nhân và chia
+khi quá trình phát triển thước loga phát triển
+các cột tỷ lệ được bổ sung cho phép tính số nghịch đảo
+bình phương và căn bậc hai
+lập phương và căn bậc ba
+cũng như các hàm siêu việt như logarit và hàm mũ
+lượng giác tròn và hypebol và các hàm khác
+thước loga với các thang đo đặc biệt vẫn được sử dụng để thực hiện nhanh các phép tính thông thường
+chẳng hạn như thước loga tròn e b được sử dụng để tính toán thời gian và khoảng cách trên máy bay hạng nhẹ
+vào những năm
+pierre jaquet droz
+một thợ đồng hồ thụy sĩ
+đã chế tạo ra một con búp bê cơ khí có thể viết khi cầm bút lông
+bằng cách chuyển đổi số lượng và thứ tự các bánh xe bên trong của nó
+búp bê này có thể viết các chữ cái khác nhau
+và do đó có thể tạo ra các thông điệp khác nhau
+trên thực tế
+nó có thể được lập trình một cách máy móc để đọc các hướng dẫn
+cùng với hai cỗ máy phức tạp khác
+búp bê viết chữ này đang được bảo tồn ở bảo tàng và nó vẫn còn hoạt động
+các nguyên lý cơ bản
+máy tính có thể làm việc thông qua sự chuyển động của các bộ phận cơ khí
+điện tử electron hay các hiện tượng vật lý khác đã biết
+mặc dù máy tính được xây dựng từ nhiều công nghệ khác nhau song gần như tất cả các máy tính hiện nay đều là máy tính điện tử
+máy tính có thể trực tiếp mô hình hóa các vấn đề cần được giải quyết
+trong khả năng của nó các vấn đề cần được giải quyết sẽ được mô phỏng gần giống nhất với những hiện tượng vật lý đang khai thác
+dòng chuyển động của các điện tử có thể được sử dụng để mô hình hóa sự chuyển động của nước trong đập
+những chiếc máy tính tương tự analog computer giống như thế đã rất phổ biến trong thập niên nhưng hiện nay còn rất ít
+trong phần lớn các máy tính ngày nay
+trước hết
+mọi vấn đề sẽ được chuyển thành các yếu tố toán học bằng cách diễn tả mọi thông tin liên quan thành các số theo hệ nhị phân hệ thống đếm dựa trên các số và hay còn gọi là hệ đếm cơ số
+mọi tính toán trên các thông tin này được tính toán bằng đại số boole
+các mạch điện tử được sử dụng để miêu tả các phép tính boole
+vì phần lớn các phép tính toán học có thể chuyển thành các phép tính bool nên máy tính điện tử đủ nhanh để xử lý phần lớn các vấn đề toán học và phần lớn thông tin của vấn đề cần giải quyết đã được chuyển thành các vấn đề toán học
+ý tưởng cơ bản này
+được nhận biết và nghiên cứu bởi claude e
+shannon người đã làm cho máy tính kỹ thuật số digital computer hiện đại trở thành hiện thực
+máy tính không thể giải quyết tất cả mọi vấn đề của toán học
+alan turing đã sáng tạo ra khoa học lý thuyết máy tính trong đó đề cập tới những vấn đề mà máy tính có thể hay không thể giải quyết
+khi máy tính kết thúc tính toán một vấn đề
+kết quả của nó được hiển thị cho người sử dụng thấy thông qua thiết bị xuất như bóng đèn
+màn hình
+máy chiếu
+những người mới sử dụng máy tính
+đặc biệt là trẻ em
+thường cảm thấy khó hiểu về ý tưởng cơ bản là máy tính chỉ là một cái máy
+nó không thể suy nghĩ hay hiểu những gì nó hiển thị
+máy tính chỉ đơn giản thi hành các tìm kiếm cơ khí trên các bảng màu và đường thẳng đã lập trình trước
+rồi sau đó thông qua các thiết bị đầu ra màn hình
+máy in chuyển đổi chúng thành những ký hiệu mà con người có thể cảm nhận được thông qua các giác quan hình ảnh trên màn hình
+chữ trên văn bản được in ra
+chỉ có bộ não của con người mới nhận thức được những ký hiệu này tạo thành các chữ hay số và gắn ý nghĩa cho chúng
+trong quan điểm của máy tính thì mọi thứ mà nó nhận thấy kể cả khi máy tính được coi là có khả năng tự nhận biết chỉ là các hạt electron tương đương với các số và
+xem thêm trí tuệ nhân tạo artificial intelligence và robot
+phát triển
+các thiết bị tính toán tăng gấp đôi năng lực được định nghĩa là số phép tính thực hiện trong một giây cho mỗi
+usd chi phí sau mỗi đến tháng kể từ năm
+gordon e
+người đồng sáng lập ra intel
+lần đầu tiên đã miêu tả tính chất này của sự phát triển vào năm xem định luật moore
+cùng với việc tăng khả năng tính toán trên một đơn vị chi phí thì tốc độ của sự thu nhỏ kích thước cũng tương tự
+những chiếc máy tính điện tử đầu tiên như eniac ra đời năm là một thiết bị khổng lồ nặng hàng tấn
+tiêu thụ nhiều điện năng
+chiếm một diện tích lớn
+thực hiện được ít phép tính và đòi hỏi nhiều người điều khiển để có thể hoạt động được
+những cỗ máy này đắt đến mức chỉ có các chính phủ hay các viện nghiên cứu lớn mới có đủ điều kiện để duy trì hoạt động của chúng
+trương trọng thi chế tạo ra micral mà nhiều người coi là máy tính cá nhân đầu tiên trên thế giới
+một bản mẫu của nó hiện được trưng bày trong viện bảo tàng máy tính boston mỹ
+chiếc máy này ra đời hơn một năm trước máy altair của công ty mỹ mits electronics
+công ty này cũng cho mình là cha đẻ của pc
+phân loại máy tính
+những phần dưới đây miêu tả các xu hướng khác nhau trong sự phân loại các máy tính
+theo mục đích sử dụng chúng ta có
+máy chủ thực hiện nhiều chức năng hoặc một chức năng duy nhất không bao giờ nghỉ
+siêu máy tính
+siêu máy tính cỡ nhỏ
+máy chủ doanh nghiệp
+máy tính mini
+máy trạm workstation
+máy tính phục vụ dân dụng máy tính cá nhân pc personal computer
+máy tính để bàn desktop
+máy tính xách tay laptop gồm nhiều dòng laptop phổ thông
+laptop quân đội và workstation mobile
+máy tính bảng như ipad
+thiết bị hỗ trợ kỹ thuật số cá nhân pda
+máy tính tháo lắp
+điểm yếu của xu hướng phân loại này là tính chất mơ hồ của nó
+cách phân loại này thường được sử dụng khi cần phân loại tại một thời điểm nào đó trong quá trình phát triển của ngành công nghiệp máy tính
+sự phát triển nhanh chóng của công nghiệp máy tính đã làm cho định nghĩa trên nhanh chóng trở nên lạc hậu
+rất nhiều loại máy tính hiện nay không được còn sử dụng nữa
+như máy phân tích vi phân differential analyzer
+không được đưa vào danh sách này
+những sơ đồ phân loại khác cần được đề ra để định nghĩa thuật ngữ máy tính một cách ít hoặc không mơ hồ hơn
+theo mức cải tiến công nghệ
+một cách phân loại máy tính ít mơ hồ hơn là theo mức độ hoàn thiện của công nghệ
+những chiếc máy tính có mặt sớm nhất thuần túy là máy cơ khí
+trong thập niên
+các thành phần rơ le cơ điện đã được giới thiệu vào máy tính từ ngành công nghiệp liên lạc viễn thông
+trong thập niên
+những chiếc máy tính thuần túy điện tử đã được chế tạo từ những đèn điện tử chân không
+trong hai thập niên và thập niên
+bóng điện tử dần dà được thay thế bởi transistor
+và từ cuối thập niên đầu thập niên là bởi mạch tích hợp bán dẫn chíp bán dẫn
+hay ic cho đến hiện nay
+một hướng nghiên cứu phát triển gần đây là máy tính quang optical computer trong đó máy tính hoạt động theo nguyên lý của ánh sáng hơn là theo nguyên lý của các dòng điện đồng thời
+khả năng sử dụng dna trong công nghệ máy tính cũng đang được thử nghiệm
+một nhánh khác của việc nghiên cứu có thể dẫn công nghiệp máy tính tới những khả năng mới như tính toán lượng tử
+tuy rằng nó vẫn còn ở giai đoạn đầu của việc nghiên cứu
+theo đặc trưng thiết kế
+các máy tính hiện đại đã liên kết các đặc trưng thiết kế chính được phát triển bởi nhiều người đóng góp trong nhiều năm
+các đặc trưng này phần lớn không phụ thuộc vào mức độ hoàn thiện của công nghệ
+các máy tính hiện đại nhận được khả năng tổng thể của chúng theo cách mà các đặc trưng này tác động qua lại với nhau
+một số đặc trưng quan trọng được liệt kê dưới đây
+kỹ thuật số và kỹ thuật tương tự
+một quyết định nền tảng trong việc thiết kế máy tính là hoặc sử dụng kỹ thuật số digital hoặc sử dụng kỹ thuật tương tự analog
+các máy tính kỹ thuật số digital computer tính toán trên các giá trị số rời rạc discreet value hoặc giá trị tượng trưng symbolic value
+trong khi đó máy tính tương tự analog computer tính toán trên các tín hiệu dữ liệu liên tục continuous data signal
+bắt đầu từ thập niên
+máy tính kỹ thuật số đã trở nên phổ biến hơn mặc dù máy tính tương tự vẫn được sử dụng cho một số mục đích đặc biệt như trong kỹ thuật robot và việc kiểm soát các lò xyclôtrôn
+các thiết kế khác dùng tính toán xung lượng và tính toán lượng tử cũng hiện hữu nhưng chúng hoặc được sử dụng cho các mục đích đặc biệt hoặc vẫn đang trong vòng thử nghiệm
+nhị phân và thập phân
+một phát triển quan trọng trong thiết kế tính toán kỹ thuật số là việc sử dụng hệ nhị phân như là hệ thống số đếm nội tại
+điều này đã bãi bỏ những yêu cầu cần thiết trong các cơ cấu kỹ thuật phức tạp của các máy tính sử dụng hệ số đếm khác
+chẳng hạn như hệ thập phân
+việc áp dụng hệ nhị phân đã làm cho việc thiết kế trở nên đơn giản hơn để thực hiện các phép tính số học và các phép tính lôgic
+khả năng lập trình
+khả năng lập trình của máy tính programmability
+nghĩa là cung cấp cho nó một tập hợp các chỉ thị để thực hiện mà không có sự điều khiển vật lý đối với nó
+là một đặc trưng thiết kế nền tảng của phần lớn các máy tính
+đặc trưng này là một sự mở rộng đáng kể khi các máy tính đã được phát triển đến mức nó có thể kiểm soát động luồng thực hiện của chương trình
+điều này cho phép máy tính kiểm soát được thứ tự trong sự thực thi các chỉ lệnh trong chương trình dựa trên các dữ liệu đã được tính ra
+điểm nổi bật chính trong thiết kế này đó là nó đã được đơn giản hóa một cách đáng kể với việc áp dụng các phép tính số học theo hệ đếm nhị phân để có thể mô tả hàng loạt các phép tính lôgic
+lưu trữ
+trong quá trình tính toán
+máy tính thông thường cần phải lưu trữ các giá trị trung gian để có thể sử dụng trong các tính toán sau đó
+khả năng thực hiện của máy tính phần lớn phụ thuộc vào tốc độ đọc các giá trị từ bộ nhớ và tốc độ ghi vào bộ nhớ
+cũng như dung lượng bộ nhớ
+ban đầu bộ nhớ chỉ được sử dụng cho các giá trị trung gian
+nhưng từ thập niên thì chính bản thân chương trình cũng có thể được lưu trữ theo cách này
+điểm nổi trội này đã dẫn đến việc ra đời của những chiếc máy tính có sẵn chương trình đầu tiên của thế hệ máy tính ngày nay
+theo năng lực sử dụng
+có lẽ cách tốt nhất để phân loại các thiết bị máy tính là theo năng lực nội tại của nó
+hơn là theo việc sử dụng
+sự hoàn thiện công nghệ hay các đặc trưng thiết kế
+máy tính có thể chia làm ba dạng chính dựa theo năng lực sử dụng
+các thiết bị có một mục đích chỉ có thể thực hiện duy nhất một chức năng ví dụ cỗ máy antikythera năm trước công lịch
+và máy dự báo thủy triều của lord kelvin năm
+các thiết bị có mục đích đặc biệt có thể thực hiện một số chức năng hữu hạn ví dụ động cơ vi phân số
+difference engine no của charles babbage năm và máy phân tích vi phân của vannevar bush năm
+các thiết bị có mục đích không nhất định là các dạng máy tính sử dụng ngày nay
+các máy tính có mục đích không nhất định còn được gọi là các máy loại turing hoàn tất và điều này được sử dụng như khả năng ngưỡng để định nghĩa các máy tính hiện nay
+tuy nhiên
+định nghĩa này có vài vấn đề
+một số thiết bị tính toán với thiết kế đơn giản đã được chứng tỏ là có tính turing hoàn tất
+cho đến nay
+phát triển bởi konrad zuse năm
+là chiếc máy tính hoạt động đầu tiên đã được chứng tỏ đạt được tính chất này
+chứng minh được hoàn thành vào năm
+trong khi z và có thể một số thiết bị khác có tính turing hoàn tất trên lý thuyết
+trên thực tế chúng không phải là những máy tính có mục đích không nhất định
+chúng thuộc về những cái được gọi một cách hài hước là turing tar pit chỗ ở đó mọi điều đều có thể nhưng chẳng có gì là thực tế xem jargon file
+các máy tính hiện đại không những có mục đích không nhất định trên lý thuyết mà còn có mục đích không nhất định trên thực tế
+các máy tính hiện đại như loại kỹ thuật số
+loại điện tử hay loại có mục đích không nhất định được phát triển bởi nhiều người đóng góp trong một khoảng thời gian dài từ giữa thập niên tới cuối thập niên
+trong giai đoạn này rất nhiều cỗ máy thử nghiệm đã được phát triển có thể coi là có tính turing hoàn tất như abc
+harvard mk i
+colossus v
+xem thêm lịch sử phần cứng máy tính
+tất cả các cỗ máy này trong thời đại của chúng đều được cho là chiếc máy tính đầu tiên
+nhưng tất cả đều có những giới hạn nhất định trong mục đích sử dụng và thiết kế của chúng đã sớm bị đào thải
+các máy tính có sẵn chương trình
+trong cuối thập niên thiết kế đầu tiên cho máy tính có sẵn chương trình stored program computer đã được phát triển và biên khảo xem thêm bản thảo đầu tiên tại trường công nghệ điện moore của đại học pennsylvania
+phương pháp giải quyết
+miêu tả trong tài liệu
+được biết đến như là kiến trúc von neumann
+mang tên của nhà toán học jon von neumann mặc dù các thành viên của trường công nghệ điện moore mới thực sự sáng chế ra thiết kế này
+kiến trúc von neumann đã giải quyết vấn đề thuộc về thiết kế của máy eniac và sửa đổi bằng cách lưu trữ chương trình của máy trong bộ nhớ của nó
+von neumann cung cấp thiết kế này cho các nhà nghiên cứu khác ngay sau khi eniac được công bố vào năm
+nhiều kế hoạch đã được phát triển để hoàn thiện thiết kế này tại trường moore trong chiếc máy có tên gọi là edvac
+edvac đã không hoạt động được cho đến tận năm vì những khó khăn kỹ thuật trong việc hoàn thiện độ tin cậy của bộ nhớ
+từ bản sao của thiết kế này
+các viện nghiên cứu khác đã giải quyết được vấn đề đó trước trường moore và hoàn thiện các máy tính có sẵn chương trình của họ
+thiết kế chương trình có sẵn
+được định nghĩa bởi kiến trúc von neumann
+cuối cùng đã cho phép máy tính khai thác tiềm năng mục đích không nhất định của chúng
+bằng cách lưu trữ chương trình trong bộ nhớ
+chúng có thể nhanh chóng nhảy từ chỉ thị này tới chỉ thị khác dựa trên kết quả của một điều kiện như đã được định nghĩa sẵn trong chương trình
+các điều kiện này thông thường lượng giá các dữ liệu đã được tính toán bởi chương trình và cho phép chương trình trở thành động hơn
+thiết kế này cũng hỗ trợ vào khả năng tự động viết lại chương trình ngay trong khi nó đang thực thi một đặc trưng rất mạnh nhưng cần sử dụng một cách cẩn thận
+các đặc trưng này là nền tảng cho các máy tính hiện đại
+nói một cách chính xác
+phần lớn các máy tính hiện đại là thiết bị tính toán theo phép nhị phân
+bằng điện tử
+có sẵn chương trình và có mục đích không nhất định
+các máy tính có mục đích đặc biệt special purpose computer đã được phổ biến trong thập niên và đầu thập niên nhưng vẫn chưa bị thay thế hoàn toàn bởi các máy tính có mục đích không nhất định
+sự giảm xuống về kích thước và giá cả cũng như sự tăng năng lực của chúng đã khiến việc sử dụng máy tính có mục đích đặc biệt trong các ứng dụng đặc biệt trở thành một hiệu quả tốt về mặt chi phí
+rất nhiều các thiết bị dùng tại nhà và trong công nghiệp như điện thoại di động
+máy thâu video
+hệ thống đánh lửa tự động v
+v có chứa loại máy tính có mục đích đặc biệt này
+trong một số trường hợp các máy tính này là loại turing hoàn tất như máy chơi trò chơi điện tử
+pda nhưng rất nhiều trong số chúng được lập trình một lần tại nhà máy sản xuất và rất ít khi phải lập trình lại
+chương trình mà các thiết bị này thực thi thông thường được lưu trữ trong bộ nhớ chỉ đọc rom mà khi cần thiết có thể thay thế để thay đổi hoạt động của máy
+các máy tính được nhúng bên trong các thiết bị khác thông thường được gọi là vi điều khiển microcontroller hay máy tính nhúng embedded computer
+các máy tính có một mục đích single purpose computer là loại xuất hiện sớm nhất của thiết bị máy tính
+khi được cung cấp dữ liệu
+nó có thể tính kết quả của một hàm đơn giản đã được thiết lập trong cơ chế của nó
+các máy tính có mục đích không nhất định gần như đã thay thế hoàn toàn các máy tính có một mục đích và
+đã phát sinh một lĩnh vực hoạt động mới của loài người phát triển phần mềm
+các máy tính có mục đích không nhất định cần phải được lập trình với một bộ chỉ thị liên quan đến phần mềm máy tính
+việc thiết kế các thiết bị tính toán có một mục đích hay có mục đích đặc biệt hiện nay là những bài tập khái niệm thuần túy bao gồm các phần mềm thiết kế
+theo hình thức hoạt động
+máy tính có thể được phân loại tùy theo cách thức người dùng vận hành
+có hai loại chính kiểu xử lý tuần tự batch processing và kiểu xử lý tương tác interactive processing
+các phần mềm và ứng dụng máy tính
+các máy tính điện tử dùng kỹ thuật số digital computer đầu tiên
+với kích thước lớn và giá thành cao
+phần lớn thực hiện các tính toán khoa học
+thông thường để hỗ trợ các mục tiêu quân sự
+eniac đầu tiên được thiết kế để tính toán các bảng đạn đạo cho pháo binh nhưng nó cũng được sử dụng để tính toán mật độ nơtron trên bình diện để hỗ trợ vào thiết kế bom khinh khí
+công việc tính toán này
+xảy ra từ tháng năm đến tháng năm với hàng triệu thẻ đục lỗ
+vạch ra rằng một thiết kế cho bom kinh khí đang được xem xét lúc đó sẽ không thành công
+rất nhiều siêu máy tính hiện nay cũng được sử dụng để giả lập các vũ khí hạt nhân
+csir mk i
+chiếc máy tính có sẵn chương trình stored program computer đầu tiên của úc được sử dụng để lượng giá các mô hình mưa cho lưu vực các sông thuộc sơ đồ dãy núi snowy
+một dự án thủy điện lớn
+các máy khác được sử dụng trong việc phân tích mã hóa
+ví dụ như chiếc máy tính với kỹ thuật số được lập trình đầu tiên trên thế giới tuy không phải là máy tính có mục đích không nhất định là colossus
+được lắp ráp trong chiến tranh thế giới thứ hai
+bất chấp sự định hướng ban đầu cho các ứng dụng khoa học
+máy tính đã được sử dụng trong nhiều lĩnh vực khác
+trước tiên các máy tính có sẵn chương trình được sử dụng để giải quyết các vấn đề kinh doanh
+máy tính có sẵn chương trình lắp ráp bởi công ty j
+lyons and co tại anh
+đã hoạt động và được sử dụng để quản lý hàng tồn kho
+cũng như các mục đích khác
+cho năm trước khi ibm lắp ráp chiếc máy tính có sẵn chương trình đầu tiên của họ
+việc giảm giá thành và kích thước của máy đã liên tục làm nó phù hợp cho những tổ chức nhỏ hơn
+với sự phát minh ra bộ vi xử lý trong thập niên thì việc lắp ráp máy tính rẻ tiền đã trở thành khả thi
+trong thập niên máy tính cá nhân trở lên phổ biến cho nhiều công việc từ kế toán
+soạn thảo
+in ấn tài liệu tới tính toán các dự báo và các công việc toán học lặp lại qua các bảng tính
+trong thập niên
+các kỹ sư điện toán của các viện nghiên cứu trên khắp nước mỹ bắt đầu liên kết máy tính của họ với nhau thông qua công nghệ của ngành liên lạc viễn thông
+những cố gắng này được arpa hỗ trợ
+và mạng máy tính mà nó cung cấp được gọi là arpanet
+các công nghệ tạo ra arpanet đã mở rộng và phát triển sau đó
+chẳng bao lâu
+mạng máy tính mở rộng ra ngoài các viện khoa học và được biết đến như là internet
+trong thập niên
+việc phát triển của công nghệ world wide web đã làm cho ngay cả những người không chuyên nghiệp cũng có thể sử dụng internet
+nó phát triển nhanh đến mức đã trở thành phương tiện liên lạc toàn cầu như ngày nay
+phương thức hoạt động
+trong khi các công nghệ sử dụng trong máy tính không ngừng thay đổi kể từ những chiếc máy tính có mục đích không nhất định đầu tiên của thập niên xem lịch sử phần cứng máy tính thì phần lớn các máy tính vẫn còn sử dụng kiến trúc von neumann
+kiến trúc von neumann chia máy tính ra làm bốn bộ phận chính
+đơn vị số học và lôgic alu
+mạch điều khiển control circuitry
+các thiết bị nhập xuất i o
+các bộ phận này được kết nối với nhau bằng các bó dây điện được gọi là các bus khi mỗi bó hỗ trợ nhiều hơn một đường dữ liệu và thường được điều khiển bởi bộ đếm thời gian hay đồng hồ mặc dù các sự kiện khác cũng có thể điều vận mạch điều khiển
+bộ nhớ máy tính có phần chính là bộ nhớ trong và bộ nhớ ngoài
+trong hệ thống này bộ nhớ là sự nối tiếp của các ô đánh số thứ tự
+mỗi ô chứa một phần nhỏ của thông tin
+thông tin có thể là chỉ thị cho máy tính
+mỗi ô cũng có thể chứa dữ liệu mà máy tính cần để thi hành chỉ thị
+nội dung của một ô nhớ có thể thay đổi ở bất kỳ thời điểm nào
+kích thước một ô nhớ cũng như số lượng ô nhớ thay đổi theo từng máy tính giống như công nghệ sử dụng trong việc chế tạo bộ nhớ
+từ rơ le cơ điện tới ống chứa thủy ngân
+từ băng từ tới transistor hay ic
+bộ xử lý cpu
+đơn vị lôgic và số học
+tiếng anh là arithmetic and logic unit
+viết tắt alu
+là thiết bị thực hiện các phép tính cơ bản như các phép tính số học cộng
+các phép tính lôgic and
+v cũng như các phép so sánh ví dụ so sánh nội dung của hai byte xem có bằng nhau
+đơn vị này là nơi mà các công việc thực sự được thực thi
+đơn vị kiểm soát theo dõi các byte trong bộ nhớ có chứa chỉ thị để máy tính thực thi
+cung cấp cho alu một chỉ thị cần phải thực thi cũng như chuyển kết quả thu được tới các vị trí thích hợp trong bộ nhớ
+sau khi điều đó diễn ra
+đơn vị kiểm soát chuyển tới chỉ thị kế tiếp thông thường nằm tại địa chỉ ngay sau
+nếu không thì chỉ thị sẽ là chỉ thị nhảy thông báo cho máy tính là chỉ thị tiếp theo nằm tại một địa chỉ khác
+khi tham chiếu tới bộ nhớ
+chỉ thị hiện thời có thể sử dụng một số phương thức đánh địa chỉ addressing mode để xác định địa chỉ liên quan trong bộ nhớ
+một số bo mạch chủ trong máy tính có thể gắn được hai hay nhiều bộ xử lý
+các loại máy tính phục vụ thường có hai hay nhiều bộ xử lý
+thiết bị ngoại vi i o
+thiết bị ngoại vi cho phép máy tính thu nhận thông tin từ bên ngoài qua thiết bị nhập
+sau khi được xử lý bởi hệ điều hành trung ương sẻ được gửi kết quả công việc của nó đến thiết bị xuất
+các thiết bị nhập bao gồm con trỏ chuột máy tính
+bàn phím
+ổ đĩa mềm
+ổ đĩa quang
+các thiết bị xuất bao gồm màn hình
+ổ usb flash
+ổ cứng di động tới những thiết bị không thông dụng như ổ zip
+công việc của thiết bị nhập input là mã hóa chuyển đổi thông tin từ nhiều định dạng sang dạng dữ liệu mà máy tính có thể xử lý
+các thiết bị xuất output thì ngược lại
+thực hiện công việc giải mã dữ liệu thành thông tin mà người sử dụng có thể hiểu được
+với ý nghĩa này thì hệ thống máy tính có thể coi như một hệ thống xử lý dữ liệu
+các chỉ thị
+tập hợp các ngôn ngữ dùng cho chỉ thị của máy tính thì không nhiều như ngôn ngữ của con người
+máy tính có một tập hợp hữu hạn gồm các chỉ thị đơn giản đã được định nghĩa trước
+nó chỉ có thể thực thi hai nhiệm vụ là đếm và so sánh
+các loại chỉ thị điển hình mà phần lớn máy tính có thể hỗ trợ
+chuyển sang ngôn ngữ con người
+là sao chép nội dung ô
+đặt bản sao đó vào ô
+thêm nội dung của ô vào nội dung ô
+đưa kết quả vào ô
+nếu kết quả của ô là
+chỉ thị tiếp theo nằm tại ô
+các chỉ thị trong máy tính tương ứng với mã trong hệ nhị phân hệ đếm cơ số
+ví dụ mã của chỉ thị sao chép copy có thể là
+tập hợp các chỉ thị mà một máy tính hỗ trợ được gọi là ngôn ngữ máy của máy tính
+trong thực tế
+người ta thông thường không viết các chỉ thị cho máy tính bằng ngôn ngữ máy mà sử dụng các ngôn ngữ lập trình bậc cao để sau đó chúng được dịch sang ngôn ngữ máy một cách tự động bởi các chương trình máy tính đặc biệt trình thông dịch interpreter và trình biên dịch compiler
+một số ngôn ngữ lập trình rất gần với ngôn ngữ máy như assembler gọi là ngôn ngữ bậc thấp;
+ngược lại các ngôn ngữ lập trình như prolog
+dựa trên các nguyên lý trừu tượng rất xa với hoạt động thực sự của máy gọi là ngôn ngữ bậc cao
+kiến trúc
+các máy tính hiện đại ghép chung alu và đơn vị kiểm soát vào trong một ic gọi là đơn vị xử lý trung tâm hay cpu
+thông thường
+bộ nhớ máy tính nằm trong một số ic nhỏ gần cpu
+phần lớn trọng lượng máy tính là các bộ phận phụ thuộc như hệ thống cung cấp điện hay các thiết bị đầu cuối i o
+một số máy tính lớn khác biệt với mô hình trên ở điểm chính sau chúng có nhiều cpu và đơn vị kiểm soát hoạt động đồng bộ
+ngoài ra
+một số máy tính
+sử dụng chủ yếu trong nghiên cứu và tính toán khoa học
+khác biệt rất đáng kể với mô hình trên
+nhưng chúng ít có ứng dụng thương mại vì mô hình lập trình chúng vẫn chưa được chuẩn hóa
+hoạt động của máy tính thì không phức tạp trên nguyên lý
+thông thường
+trong mỗi nhịp đồng hồ
+máy tính sẽ nhận được các chỉ thị và dữ liệu từ bộ nhớ của nó
+các chỉ thị được thực thi
+kết quả được lưu lại và chỉ thị tiếp theo được nhận về
+quá trình này tiếp diễn cho đến khi gặp chỉ thị dừng
+chương trình máy tính đơn giản chỉ là một danh sách các chỉ thị để máy tính thực thi
+có thể với các bảng dữ liệu
+rất nhiều chương trình máy tính chứa hàng triệu chỉ thị và rất nhiều chỉ thị được lặp đi lặp lại
+một chiếc máy tính thông thường ngày nay năm có thể thực hiện tỷ chỉ thị trong một giây
+máy tính không có các khả năng đặc biệt thông qua việc thực thi các chỉ thị phức tạp mà cơ bản là nó chỉ thực thi các chỉ thị đơn giản do lập trình viên đưa ra
+một số lập trình viên giỏi phát triển các tập hợp chỉ thị dùng cho một số công việc chung như vẽ một điểm trên màn hình và cung cấp các tập hợp chỉ thị đó cho các lập trình viên khác
+một số lập trình viên khác chỉ phát triển các ứng dụng thực tế dựa trên các nền tảng mà các lập trình viên kia cung cấp cho họ
+hiện nay
+phần lớn máy tính có thể thực hiện cùng một lúc vài chương trình
+điều này được gọi là đa nhiệm multitasking
+trên thực tế
+cpu thực thi các chỉ thị của một chương trình
+sau một khoảng thời gian ngắn
+nó chuyển sang thực thi các chỉ thị của chương trình thứ hai v
+khoảng thời gian ngắn đó được xem như là sự phân chia thời gian của cpu và nó tạo ảo giác như là các chương trình được thực thi đồng thời
+điều này cũng tương tự như phim là sự chuyển động đơn giản của các ảnh kế tiếp nhau
+hệ điều hành là chương trình thông thường kiểm soát sự phân chia thời gian đó
+máy tính cần ít nhất một chương trình luôn luôn chạy để đảm bảo sự hoạt động của nó
+trong điều kiện hoạt động bình thường đối với các máy tính tiêu chuẩn chương trình này được gọi là hệ điều hành operating system
+hệ điều hành sẽ quyết định chương trình nào được thi hành
+khi nào và bao nhiêu tài nguyên như bộ nhớ hay đầu vào đầu ra chúng được cấp
+hệ điều hành cũng cung cấp một lớp trừu tượng trên phần cứng và cho phép truy nhập bằng các dịch vụ cung cấp cho các chương trình khác
+như mã driver cho phép lập trình viên viết chương trình cho máy tính mà không cần thiết phải biết các chi tiết thuộc bản chất của các thiết bị điện tử đính kèm
+phần lớn các hệ điều hành có các lớp trừu tượng phần cứng đều có một giao diện người dùng user interface chuẩn hóa
+hệ điều hành phổ biến nhất hiện nay là windows của microsoft
+hệ điều hành đầu tiên của máy tính là hệ điều hành ms dos thuộc tập đoàn microsoft được tạo ra bởi bill gates

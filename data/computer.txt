@@ -1,0 +1,241 @@
+Máy tính hay máy điện toán là một máy có thể được hướng dẫn để thực hiện các chuỗi các phép toán số học hoặc logic một cách tự động thông qua lập trình máy tính .
+Máy tính hiện đại có khả năng tuân theo các tập hợp lệnh tổng quát , được gọi là chương trình .
+Các chương trình này cho phép máy tính thực hiện một loạt các tác vụ.
+Một máy tính hoàn chỉnh bao gồm phần cứng, hệ điều hành ( phần mềm chính ) và thiết bị ngoại vi cần thiết và sử dụng cho hoạt động hoàn chỉnh có thể được gọi là hệ thống máy tính .
+Thuật ngữ này cũng có thể được sử dụng cho một nhóm máy tính được kết nối và hoạt động cùng nhau , cụ thể là một mạng máy tính hoặc cụm máy tính .
+Máy tính được sử dụng làm hệ thống điều khiển cho nhiều loại thiết bị công nghiệp và dân dụng .
+Điều này bao gồm các thiết bị có mục đích đặc biệt đơn giản như lò vi sóng và điều khiển từ xa , các thiết bị nhà máy như rô bốt công nghiệp và thiết kế có sự hỗ trợ của máy tính và cả các thiết bị đa năng như máy tính cá nhân và thiết bị di động như điện thoại thông minh .
+Internet được chạy trên các máy tính và nó kết nối hàng trăm triệu máy tính khác và người dùng của chúng .
+Máy tính ban đầu chỉ được coi là thiết bị tính toán.
+Từ thời cổ đại , các thiết bị thủ công đơn giản như bàn tính đã hỗ trợ con người thực hiện các phép tính .
+Đầu Cách mạng Công nghiệp , một số thiết bị cơ khí đã được chế tạo để tự động hóa các công việc kéo dài tẻ nhạt , chẳng hạn như hướng dẫn các mẫu cho khung dệt .
+Các máy điện phức tạp hơn đã thực hiện các phép tính tương tự chuyên biệt vào đầu thế kỷ 20 .
+Các máy tính toán điện tử kỹ thuật số đầu tiên được phát triển trong Thế chiến II .
+Các bóng bán dẫn đầu tiên vào cuối những năm 1940 được tiếp nối bằng công nghệ chip MOSFET (bóng bán dẫn MOS) dựa trên silicon và mạch tích hợp nguyên khối (IC) vào cuối những năm 1950 , dẫn đến cuộc cách mạng vi xử lý và vi máy tính vào những năm 1970.
+Tốc độ, sức mạnh và tính linh hoạt của máy tính đã tăng lên đáng kể kể từ đó, với số lượng bóng bán dẫn tăng với tốc độ nhanh chóng ( theo dự đoán của định luật Moore ), dẫn đến cuộc Cách mạng Kỹ thuật số trong khoảng cuối thế kỷ 20 đến đầu thế kỷ 21.
+Thông thường, một máy tính hiện đại bao gồm ít nhất một phần tử xử lý, điển hình là đơn vị xử lý trung tâm (CPU) dưới dạng bộ vi xử lý, cùng với một số loại bộ nhớ máy tính, điển hình là chip bộ nhớ bán dẫn .
+Phần tử xử lý thực hiện các phép toán số học và logic , và một đơn vị điều khiển và sắp xếp trình tự có thể thay đổi thứ tự của các hoạt động theo thông tin được lưu trữ .
+Các thiết bị ngoại vi bao gồm thiết bị đầu vào (bàn phím, chuột, phím điều khiển, thiết bị đầu ra (màn hình điều khiển, máy in) và thiết bị đầu vào / đầu ra thực hiện cả hai chức năng trên (ví dụ: màn hình cảm ứng từ những năm 2000).
+Các thiết bị ngoại vi cho phép thông tin được truy xuất từ một nguồn bên ngoài và chúng cho phép lưu và truy xuất kết quả của các hoạt động trên máy tính .
+Lịch sử
+Các thiết bị đã được sử dụng để hỗ trợ tính toán trong hàng nghìn năm, chủ yếu sử dụng giao tiếp 1-1 với các ngón tay .
+Thiết bị đếm sớm nhất có lẽ là một dạng que tính.
+Các công cụ hỗ trợ lưu giữ hồ sơ sau này trong suốt Fertile Crescent bao gồm các phép tính (quả cầu đất sét, hình nón, v.v.) thể hiện số lượng vật phẩm, có thể là gia súc hoặc ngũ cốc, được niêm phong trong các thùng chứa đất sét rỗng không nung.
+Việc sử dụng que đếm là một ví dụ.
+Bàn tính ban đầu được sử dụng cho các nhiệm vụ số học.
+Bàn tính La Mã được phát triển từ các thiết bị tính toán được sử dụng ở Babylonia vào đầu năm 2400 TCN.
+Kể từ đó, nhiều dạng bảng hoặc bảng tính toán khác đã được phát minh. Trong một nhà tính toán ở châu Âu thời Trung cổ, một tấm vải ca rô sẽ được đặt trên bàn và các điểm đánh dấu di chuyển xung quanh nó theo các quy tắc nhất định, như một biện pháp hỗ trợ tính toán các khoản tiền.
+Cỗ máy Antikythera được cho là máy tính tương tự cơ học sớm nhất, theo Derek J. de Solla Price .
+Nó được thiết kế để tính toán các vị trí thiên văn.
+Nó được phát hiện vào năm 1901 trong xác tàu Antikythera ngoài khơi đảo Antikythera của Hy Lạp, giữa Kythera và Crete, và có niên đại là 100 TCN .
+Các thiết bị có mức độ phức tạp tương đương với cỗ máy Antikythera sẽ không xuất hiện trở lại cho đến một nghìn năm sau.
+Nhiều công cụ hỗ trợ cơ học để tính toán và đo lường đã được xây dựng để sử dụng trong thiên văn và điều hướng.
+Planisphere là một bản đồ phát minh vào đầu thế kỷ 11.
+Thước trắc tinh được phát minh ở thế giới Hy Lạp vào thế kỷ 1 hoặc 2 TCN và thường được cho là do Hipparchus phát minh.
+Thước trắc tinh thực sự là một máy tính tương tự có khả năng giải quyết một số loại vấn đề khác nhau trong thiên văn học hình cầu .
+Thước này kết hợp một máy tính lịch cơ học và bánh răng được Abi Bakr ở Isfahan, Ba Tư phát minh vào năm 1235.
+Abū Rayhān al-Bīrūnī đã phát minh ra thước trắc tinh có lịch âm dương có hộp số cơ học đầu tiên, một máy xử lý tri thức có dây cố định ban đầu với các bánh răng liên kết với nhau.
+Thước gấp, một công cụ tính toán được sử dụng để giải các bài toán về tỷ lệ, lượng giác, nhân và chia, và tính các hàm khác nhau, chẳng hạn như bình phương và khai căn bậc hai, được phát triển vào cuối thế kỷ 16 và được ứng dụng trong các ngành vũ khí, khảo sát và điều hướng.
+Máy đo planimeter là một công cụ thủ công để tính diện tích của một hình khép kín bằng cách đi dọc theo nó bằng một liên kết cơ học.
+Thước loga đã được phát minh vào khoảng năm 1620–1630, ngay sau khi xuất hiện khái niệm lôgarit .
+Nó là một máy tính tương tự vận hành bằng tay để thực hiện các phép nhân và chia.
+Khi quá trình phát triển thước loga phát triển, các cột tỷ lệ được bổ sung cho phép tính số nghịch đảo, bình phương và căn bậc hai, lập phương và căn bậc ba, cũng như các hàm siêu việt như logarit và hàm mũ, lượng giác tròn và hypebol và các hàm khác.
+Thước loga với các thang đo đặc biệt vẫn được sử dụng để thực hiện nhanh các phép tính thông thường, chẳng hạn như thước loga tròn E6B được sử dụng để tính toán thời gian và khoảng cách trên máy bay hạng nhẹ.
+Vào những năm 1770, Pierre Jaquet-Droz, một thợ đồng hồ Thụy Sĩ, đã chế tạo ra một con búp bê cơ khí có thể viết khi cầm bút lông.
+Bằng cách chuyển đổi số lượng và thứ tự các bánh xe bên trong của nó, búp bê này có thể viết các chữ cái khác nhau, và do đó có thể tạo ra các thông điệp khác nhau.
+Trên thực tế, nó có thể được "lập trình" một cách máy móc để đọc các hướng dẫn.
+Cùng với hai cỗ máy phức tạp khác, búp bê viết chữ này đang được bảo tồn ở bảo tàng và nó vẫn còn hoạt động.
+Các nguyên lý cơ bản
+Máy tính có thể làm việc thông qua sự chuyển động của các bộ phận cơ khí, điện tử (electron) hay các hiện tượng vật lý khác đã biết.
+Mặc dù máy tính được xây dựng từ nhiều công nghệ khác nhau song gần như tất cả các máy tính hiện nay đều là máy tính điện tử.
+Máy tính có thể trực tiếp mô hình hóa các vấn đề cần được giải quyết, trong khả năng của nó các vấn đề cần được giải quyết sẽ được mô phỏng gần giống nhất với những hiện tượng vật lý đang khai thác.
+Ví dụ, dòng chuyển động của các điện tử có thể được sử dụng để mô hình hóa sự chuyển động của nước trong đập. Những chiếc máy tính tương tự (analog computer) giống như thế đã rất phổ biến trong thập niên 1960 nhưng hiện nay còn rất ít.
+Trong phần lớn các máy tính ngày nay, trước hết, mọi vấn đề sẽ được chuyển thành các yếu tố toán học bằng cách diễn tả mọi thông tin liên quan thành các số theo hệ nhị phân (hệ thống đếm dựa trên các số 0 và 1 hay còn gọi là hệ đếm cơ số 2).
+Sau đó, mọi tính toán trên các thông tin này được tính toán bằng đại số Boole.
+Các mạch điện tử được sử dụng để miêu tả các phép tính Boole.
+Vì phần lớn các phép tính toán học có thể chuyển thành các phép tính Bool nên máy tính điện tử đủ nhanh để xử lý phần lớn các vấn đề toán học (và phần lớn thông tin của vấn đề cần giải quyết đã được chuyển thành các vấn đề toán học).
+Ý tưởng cơ bản này, được nhận biết và nghiên cứu bởi Claude E. Shannon - người đã làm cho máy tính kỹ thuật số (digital computer) hiện đại trở thành hiện thực.
+Máy tính không thể giải quyết tất cả mọi vấn đề của toán học.
+Alan Turing đã sáng tạo ra khoa học lý thuyết máy tính trong đó đề cập tới những vấn đề mà máy tính có thể hay không thể giải quyết.
+Khi máy tính kết thúc tính toán một vấn đề, kết quả của nó được hiển thị cho người sử dụng thấy thông qua thiết bị xuất như: bóng đèn, màn hình, máy in, máy chiếu.
+Những người mới sử dụng máy tính, đặc biệt là trẻ em, thường cảm thấy khó hiểu về ý tưởng cơ bản là máy tính chỉ là một cái máy, nó không thể suy nghĩ hay hiểu những gì nó hiển thị.
+Máy tính chỉ đơn giản thi hành các tìm kiếm cơ khí trên các bảng màu và đường thẳng đã lập trình trước, rồi sau đó thông qua các thiết bị đầu ra (màn hình, máy in) chuyển đổi chúng thành những ký hiệu mà con người có thể cảm nhận được thông qua các giác quan (hình ảnh trên màn hình, chữ trên văn bản được in ra).
+Chỉ có bộ não của con người mới nhận thức được những ký hiệu này tạo thành các chữ hay số và gắn ý nghĩa cho chúng.
+Trong quan điểm của máy tính thì mọi thứ mà nó "nhận thấy" (kể cả khi máy tính được coi là có khả năng tự nhận biết) chỉ là các hạt electron tương đương với các số 0 và 1.
+Xem thêm trí tuệ nhân tạo (artificial intelligence) và robot.
+Phát triển
+Các thiết bị tính toán tăng gấp đôi năng lực (được định nghĩa là số phép tính thực hiện trong một giây cho mỗi 1.000 USD chi phí) sau mỗi 18 đến 24 tháng kể từ năm 1900.
+Gordon E. Moore, người đồng sáng lập ra Intel, lần đầu tiên đã miêu tả tính chất này của sự phát triển vào năm 1965 (Xem định luật Moore).
+Cùng với việc tăng khả năng tính toán trên một đơn vị chi phí thì tốc độ của sự thu nhỏ kích thước cũng tương tự.
+Những chiếc máy tính điện tử đầu tiên như ENIAC (ra đời năm 1946) là một thiết bị khổng lồ nặng hàng tấn, tiêu thụ nhiều điện năng, chiếm một diện tích lớn, thực hiện được ít phép tính và đòi hỏi nhiều người điều khiển để có thể hoạt động được. Những cỗ máy này đắt đến mức chỉ có các chính phủ hay các viện nghiên cứu lớn mới có đủ điều kiện để duy trì hoạt động của chúng.
+Năm 1973, Trương Trọng Thi chế tạo ra Micral mà nhiều người coi là máy tính cá nhân đầu tiên trên thế giới. Một bản mẫu của nó hiện được trưng bày trong Viện bảo tàng máy tính Boston (Mỹ). Chiếc máy này ra đời hơn một năm trước máy Altair của công ty Mỹ MITS Electronics, công ty này cũng cho mình là cha đẻ của PC.
+Phân loại máy tính
+Những phần dưới đây miêu tả các xu hướng khác nhau trong sự phân loại các máy tính.
+Theo mục đích sử dụng chúng ta có:
+Máy chủ thực hiện nhiều chức năng hoặc một chức năng duy nhất không bao giờ nghỉ:
+Siêu máy tính, siêu máy tính cỡ nhỏ, mainframe, máy chủ doanh nghiệp, máy tính mini, máy trạm (workstation)
+Máy tính phục vụ dân dụng: Máy tính cá nhân (PC - Personal Computer), Máy tính để bàn (Desktop), Máy tính xách tay (Laptop gồm nhiều dòng laptop phổ thông,notebook, untrabook, laptop quân đội và workstation mobile), Máy tính bảng (như Ipad), Thiết bị hỗ trợ kỹ thuật số cá nhân (PDA), Máy tính tháo lắp
+Điểm yếu của xu hướng phân loại này là tính chất mơ hồ của nó.
+Cách phân loại này thường được sử dụng khi cần phân loại tại một thời điểm nào đó trong quá trình phát triển của ngành công nghiệp máy tính.
+Sự phát triển nhanh chóng của công nghiệp máy tính đã làm cho định nghĩa trên nhanh chóng trở nên lạc hậu.
+Rất nhiều loại máy tính hiện nay không được còn sử dụng nữa, như máy phân tích vi phân (differential analyzer), không được đưa vào danh sách này.
+Những sơ đồ phân loại khác cần được đề ra để định nghĩa thuật ngữ máy tính một cách ít (hoặc không) mơ hồ hơn.
+Theo mức cải tiến công nghệ
+Một cách phân loại máy tính ít mơ hồ hơn là theo mức độ hoàn thiện của công nghệ.
+Những chiếc máy tính có mặt sớm nhất thuần túy là máy cơ khí.
+Trong thập niên 1930, các thành phần rơ le cơ-điện đã được giới thiệu vào máy tính từ ngành công nghiệp liên lạc viễn thông.
+Trong thập niên 1940, những chiếc máy tính thuần túy điện tử đã được chế tạo từ những đèn điện tử chân không.
+Trong hai thập niên 1950 và thập niên 1960, bóng điện tử dần dà được thay thế bởi transistor, và từ cuối thập niên 1960 đầu thập niên 1970 là bởi mạch tích hợp bán dẫn (chíp bán dẫn, hay IC) cho đến hiện nay.
+Một hướng nghiên cứu phát triển gần đây là máy tính quang (optical computer) trong đó máy tính hoạt động theo nguyên lý của ánh sáng hơn là theo nguyên lý của các dòng điện đồng thời, khả năng sử dụng DNA trong công nghệ máy tính cũng đang được thử nghiệm.
+Một nhánh khác của việc nghiên cứu có thể dẫn công nghiệp máy tính tới những khả năng mới như tính toán lượng tử, tuy rằng nó vẫn còn ở giai đoạn đầu của việc nghiên cứu.
+Theo đặc trưng thiết kế
+Các máy tính hiện đại đã liên kết các đặc trưng thiết kế chính được phát triển bởi nhiều người đóng góp trong nhiều năm.
+Các đặc trưng này phần lớn không phụ thuộc vào mức độ hoàn thiện của công nghệ.
+Các máy tính hiện đại nhận được khả năng tổng thể của chúng theo cách mà các đặc trưng này tác động qua lại với nhau.
+Một số đặc trưng quan trọng được liệt kê dưới đây
+Kỹ thuật số và kỹ thuật tương tự
+Một quyết định nền tảng trong việc thiết kế máy tính là hoặc sử dụng kỹ thuật số (digital) hoặc sử dụng kỹ thuật tương tự (analog).
+Các máy tính kỹ thuật số (digital computer) tính toán trên các giá trị số rời rạc (discreet value) hoặc giá trị tượng trưng (symbolic value), trong khi đó máy tính tương tự (analog computer) tính toán trên các tín hiệu dữ liệu liên tục (continuous data signal).
+Bắt đầu từ thập niên 1940, máy tính kỹ thuật số đã trở nên phổ biến hơn mặc dù máy tính tương tự vẫn được sử dụng cho một số mục đích đặc biệt như trong kỹ thuật robot và việc kiểm soát các lò xyclôtrôn.
+Các thiết kế khác dùng tính toán xung lượng và tính toán lượng tử cũng hiện hữu nhưng chúng hoặc được sử dụng cho các mục đích đặc biệt hoặc vẫn đang trong vòng thử nghiệm.
+Nhị phân và Thập phân
+Một phát triển quan trọng trong thiết kế tính toán kỹ thuật số là việc sử dụng hệ nhị phân như là hệ thống số đếm nội tại.
+Điều này đã bãi bỏ những yêu cầu cần thiết trong các cơ cấu kỹ thuật phức tạp của các máy tính sử dụng hệ số đếm khác, chẳng hạn như hệ thập phân.
+Việc áp dụng hệ nhị phân đã làm cho việc thiết kế trở nên đơn giản hơn để thực hiện các phép tính số học và các phép tính lôgic.
+Khả năng lập trình
+Khả năng lập trình của máy tính (programmability), nghĩa là cung cấp cho nó một tập hợp các chỉ thị để thực hiện mà không có sự điều khiển vật lý đối với nó, là một đặc trưng thiết kế nền tảng của phần lớn các máy tính.
+Đặc trưng này là một sự mở rộng đáng kể khi các máy tính đã được phát triển đến mức nó có thể kiểm soát động luồng thực hiện của chương trình.
+Điều này cho phép máy tính kiểm soát được thứ tự trong sự thực thi các chỉ lệnh trong chương trình dựa trên các dữ liệu đã được tính ra.
+Điểm nổi bật chính trong thiết kế này đó là nó đã được đơn giản hóa một cách đáng kể với việc áp dụng các phép tính số học theo hệ đếm nhị phân để có thể mô tả hàng loạt các phép tính lôgic.
+Lưu trữ
+Trong quá trình tính toán, máy tính thông thường cần phải lưu trữ các giá trị trung gian để có thể sử dụng trong các tính toán sau đó.
+Khả năng thực hiện của máy tính phần lớn phụ thuộc vào tốc độ đọc các giá trị từ bộ nhớ và tốc độ ghi vào bộ nhớ, cũng như dung lượng bộ nhớ.
+Ban đầu bộ nhớ chỉ được sử dụng cho các giá trị trung gian, nhưng từ thập niên 1940 thì chính bản thân chương trình cũng có thể được lưu trữ theo cách này.
+Điểm nổi trội này đã dẫn đến việc ra đời của những chiếc máy tính có sẵn chương trình đầu tiên của thế hệ máy tính ngày nay.
+Theo năng lực sử dụng
+Có lẽ cách tốt nhất để phân loại các thiết bị máy tính là theo năng lực nội tại của nó, hơn là theo việc sử dụng, sự hoàn thiện công nghệ hay các đặc trưng thiết kế.
+Máy tính có thể chia làm ba dạng chính dựa theo năng lực sử dụng
+Các thiết bị có một mục đích chỉ có thể thực hiện duy nhất một chức năng (ví dụ cỗ máy Antikythera năm 87 trước công lịch, và máy dự báo thủy triều của Lord Kelvin năm 1876)
+Các thiết bị có mục đích đặc biệt có thể thực hiện một số chức năng hữu hạn (ví dụ động cơ vi phân số 1. - Difference Engine No 1 - của Charles Babbage năm 1832 và máy phân tích vi phân của Vannevar Bush năm 1932)
+Các thiết bị có mục đích không nhất định là các dạng máy tính sử dụng ngày nay.
+Các máy tính có mục đích không nhất định còn được gọi là các máy loại Turing hoàn tất và điều này được sử dụng như khả năng ngưỡng để định nghĩa các máy tính hiện nay, tuy nhiên, định nghĩa này có vài vấn đề.
+Một số thiết bị tính toán với thiết kế đơn giản đã được chứng tỏ là có tính Turing hoàn tất.
+Cho đến nay, Z3, phát triển bởi Konrad Zuse năm 1941, là chiếc máy tính hoạt động đầu tiên đã được chứng tỏ đạt được tính chất này, (chứng minh được hoàn thành vào năm 1998).
+Trong khi Z3 và có thể một số thiết bị khác có tính Turing hoàn tất trên lý thuyết, trên thực tế chúng không phải là những máy tính có mục đích không nhất định.
+Chúng thuộc về những cái được gọi một cách hài hước là Turing Tar-Pit - "chỗ ở đó mọi điều đều có thể nhưng chẳng có gì là thực tế" (Xem Jargon File).
+Các máy tính hiện đại không những có mục đích không nhất định trên lý thuyết mà còn có mục đích không nhất định trên thực tế.
+Các máy tính hiện đại như loại kỹ thuật số, loại điện tử hay loại có mục đích không nhất định được phát triển bởi nhiều người đóng góp trong một khoảng thời gian dài từ giữa thập niên 1930 tới cuối thập niên 1940.
+Trong giai đoạn này rất nhiều cỗ máy thử nghiệm đã được phát triển có thể coi là có tính Turing hoàn tất (như ABC, ENIAC, Harvard Mk I, Colossus v.v.) (Xem thêm Lịch sử phần cứng máy tính).
+Tất cả các cỗ máy này trong thời đại của chúng đều được cho là chiếc máy tính đầu tiên, nhưng tất cả đều có những giới hạn nhất định trong mục đích sử dụng và thiết kế của chúng đã sớm bị đào thải.
+Các máy tính có sẵn chương trình
+Trong cuối thập niên 1940 thiết kế đầu tiên cho máy tính có sẵn chương trình (stored-program computer) đã được phát triển và biên khảo (Xem thêm Bản thảo đầu tiên) tại trường công nghệ điện Moore của Đại học Pennsylvania.
+Phương pháp giải quyết, miêu tả trong tài liệu, được biết đến như là kiến trúc Von Neumann, mang tên của nhà toán học Jon von Neumann mặc dù các thành viên của trường công nghệ điện Moore mới thực sự sáng chế ra thiết kế này.
+Kiến trúc Von Neumann đã giải quyết vấn đề thuộc về thiết kế của máy ENIAC và sửa đổi bằng cách lưu trữ chương trình của máy trong bộ nhớ của nó.
+Von Neumann cung cấp thiết kế này cho các nhà nghiên cứu khác ngay sau khi ENIAC được công bố vào năm 1946.
+Nhiều kế hoạch đã được phát triển để hoàn thiện thiết kế này tại trường Moore trong chiếc máy có tên gọi là EDVAC.
+EDVAC đã không hoạt động được cho đến tận năm 1953 vì những khó khăn kỹ thuật trong việc hoàn thiện độ tin cậy của bộ nhớ.
+Từ bản sao của thiết kế này, các viện nghiên cứu khác đã giải quyết được vấn đề đó trước trường Moore và hoàn thiện các máy tính có sẵn chương trình của họ.
+Thiết kế "chương trình có sẵn", được định nghĩa bởi kiến trúc Von Neumann, cuối cùng đã cho phép máy tính khai thác tiềm năng "mục đích không nhất định" của chúng.
+Bằng cách lưu trữ chương trình trong bộ nhớ, chúng có thể nhanh chóng "nhảy" từ chỉ thị này tới chỉ thị khác dựa trên kết quả của một điều kiện như đã được định nghĩa sẵn trong chương trình.
+Các điều kiện này thông thường lượng giá các dữ liệu đã được tính toán bởi chương trình và cho phép chương trình trở thành động hơn. Thiết kế này cũng hỗ trợ vào khả năng tự động viết lại chương trình ngay trong khi nó đang thực thi - một đặc trưng rất mạnh nhưng cần sử dụng một cách cẩn thận.
+Các đặc trưng này là nền tảng cho các máy tính hiện đại.
+Nói một cách chính xác, phần lớn các máy tính hiện đại là thiết bị tính toán theo phép nhị phân, bằng điện tử, có sẵn chương trình và có mục đích không nhất định.
+Các máy tính có mục đích đặc biệt (special-purpose computer) đã được phổ biến trong thập niên 1930 và đầu thập niên 1940 nhưng vẫn chưa bị thay thế hoàn toàn bởi các máy tính có mục đích không nhất định.
+Sự giảm xuống về kích thước và giá cả cũng như sự tăng năng lực của chúng đã khiến việc sử dụng máy tính có mục đích đặc biệt trong các ứng dụng đặc biệt trở thành một hiệu quả tốt về mặt chi phí.
+Rất nhiều các thiết bị dùng tại nhà và trong công nghiệp như điện thoại di động, máy thâu video, hệ thống đánh lửa tự động v.v có chứa loại máy tính có mục đích đặc biệt này.
+Trong một số trường hợp các máy tính này là loại Turing hoàn tất (như máy chơi trò chơi điện tử, PDA) nhưng rất nhiều trong số chúng được lập trình một lần tại nhà máy sản xuất và rất ít khi phải lập trình lại.
+Chương trình mà các thiết bị này thực thi thông thường được lưu trữ trong bộ nhớ chỉ đọc (ROM) mà khi cần thiết có thể thay thế để thay đổi hoạt động của máy.
+Các máy tính được nhúng bên trong các thiết bị khác thông thường được gọi là vi điều khiển (microcontroller) hay máy tính nhúng (embedded computer).
+Các máy tính có một mục đích (single-purpose computer) là loại xuất hiện sớm nhất của thiết bị máy tính.
+Khi được cung cấp dữ liệu, nó có thể tính kết quả của một hàm đơn giản đã được thiết lập trong cơ chế của nó.
+Các máy tính có mục đích không nhất định gần như đã thay thế hoàn toàn các máy tính có một mục đích và, do đó, đã phát sinh một lĩnh vực hoạt động mới của loài người: phát triển phần mềm.
+Các máy tính có mục đích không nhất định cần phải được lập trình với một bộ chỉ thị liên quan đến phần mềm máy tính.
+Việc thiết kế các thiết bị tính toán có một mục đích hay có mục đích đặc biệt hiện nay là những bài tập khái niệm thuần túy bao gồm các phần mềm thiết kế.
+Theo hình thức hoạt động
+Máy tính có thể được phân loại tùy theo cách thức người dùng vận hành. Có hai loại chính: kiểu xử lý tuần tự (batch processing) và kiểu xử lý tương tác (interactive processing).
+Các phần mềm và ứng dụng máy tính
+Các máy tính điện tử dùng kỹ thuật số (digital computer) đầu tiên, với kích thước lớn và giá thành cao, phần lớn thực hiện các tính toán khoa học, thông thường để hỗ trợ các mục tiêu quân sự.
+ENIAC đầu tiên được thiết kế để tính toán các bảng đạn đạo cho pháo binh nhưng nó cũng được sử dụng để tính toán mật độ nơtron trên bình diện để hỗ trợ vào thiết kế bom khinh khí.
+Công việc tính toán này, xảy ra từ tháng 12 năm 1945 đến tháng 1 năm 1946 với hàng triệu thẻ đục lỗ, vạch ra rằng một thiết kế cho bom kinh khí đang được xem xét lúc đó sẽ không thành công.
+(Rất nhiều siêu máy tính hiện nay cũng được sử dụng để giả lập các vũ khí hạt nhân.) CSIR Mk I, chiếc máy tính có sẵn chương trình (stored-program computer) đầu tiên của Úc được sử dụng để lượng giá các mô hình mưa cho lưu vực các sông thuộc sơ đồ dãy núi Snowy, một dự án thủy điện lớn.
+Các máy khác được sử dụng trong việc phân tích mã hóa, ví dụ như chiếc máy tính với kỹ thuật số được lập trình đầu tiên trên thế giới (tuy không phải là máy tính có mục đích không nhất định) là Colossus, được lắp ráp trong Chiến tranh thế giới thứ hai.
+Bất chấp sự định hướng ban đầu cho các ứng dụng khoa học, máy tính đã được sử dụng trong nhiều lĩnh vực khác.
+Trước tiên các máy tính có sẵn chương trình được sử dụng để giải quyết các vấn đề kinh doanh.
+LEO, máy tính có sẵn chương trình lắp ráp bởi công ty J. Lyons and Co tại Anh, đã hoạt động và được sử dụng để quản lý hàng tồn kho, cũng như các mục đích khác, cho 3 năm trước khi IBM lắp ráp chiếc máy tính có sẵn chương trình đầu tiên của họ.
+Việc giảm giá thành và kích thước của máy đã liên tục làm nó phù hợp cho những tổ chức nhỏ hơn.
+Với sự phát minh ra bộ vi xử lý trong thập niên 1970 thì việc lắp ráp máy tính rẻ tiền đã trở thành khả thi.
+Trong thập niên 1980 máy tính cá nhân trở lên phổ biến cho nhiều công việc từ kế toán, soạn thảo, in ấn tài liệu tới tính toán các dự báo và các công việc toán học lặp lại qua các bảng tính.
+Internet
+Trong thập niên 1970, các kỹ sư điện toán của các viện nghiên cứu trên khắp nước Mỹ bắt đầu liên kết máy tính của họ với nhau thông qua công nghệ của ngành liên lạc viễn thông.
+Những cố gắng này được ARPA hỗ trợ, và mạng máy tính mà nó cung cấp được gọi là ARPANET.
+Các công nghệ tạo ra Arpanet đã mở rộng và phát triển sau đó.
+Chẳng bao lâu, mạng máy tính mở rộng ra ngoài các viện khoa học và được biết đến như là Internet.
+Trong thập niên 1990, việc phát triển của công nghệ World Wide Web đã làm cho ngay cả những người không chuyên nghiệp cũng có thể sử dụng internet.
+Nó phát triển nhanh đến mức đã trở thành phương tiện liên lạc toàn cầu như ngày nay.
+Phương thức hoạt động
+Trong khi các công nghệ sử dụng trong máy tính không ngừng thay đổi kể từ những chiếc máy tính có mục đích không nhất định đầu tiên của thập niên 1940 (Xem Lịch sử phần cứng máy tính) thì phần lớn các máy tính vẫn còn sử dụng kiến trúc Von Neumann.
+Kiến trúc Von Neumann chia máy tính ra làm bốn bộ phận chính:
+Đơn vị số học và lôgic (ALU),
+Mạch điều khiển (control circuitry),
+Bộ Nhớ
+Các thiết bị Nhập/Xuất (I/O).
+Các bộ phận này được kết nối với nhau bằng các bó dây điện (được gọi là các bus khi mỗi bó hỗ trợ nhiều hơn một đường dữ liệu) và thường được điều khiển bởi bộ đếm thời gian hay đồng hồ (mặc dù các sự kiện khác cũng có thể điều vận mạch điều khiển).
+Bộ nhớ máy tính có 2 phần chính là bộ nhớ trong và bộ nhớ ngoài.
+Trong hệ thống này bộ nhớ là sự nối tiếp của các ô đánh số thứ tự, mỗi ô chứa một phần nhỏ của thông tin.
+Thông tin có thể là chỉ thị cho máy tính.
+Mỗi ô cũng có thể chứa dữ liệu mà máy tính cần để thi hành chỉ thị.
+Nội dung của một ô nhớ có thể thay đổi ở bất kỳ thời điểm nào.
+Kích thước một ô nhớ cũng như số lượng ô nhớ thay đổi theo từng máy tính giống như công nghệ sử dụng trong việc chế tạo bộ nhớ, từ rơ le cơ-điện tới ống chứa thủy ngân, từ băng từ tới transistor hay IC.
+Bộ xử lý (CPU)
+Đơn vị lôgic và số học, (tiếng Anh là Arithmetic and Logic Unit, viết tắt ALU), là thiết bị thực hiện các phép tính cơ bản như các phép tính số học (cộng, trừ, nhân, chia, v.v), các phép tính lôgic (AND, OR, NOT, v.v) cũng như các phép so sánh (ví dụ: so sánh nội dung của hai byte xem có bằng nhau).
+Đơn vị này là nơi mà các "công việc thực sự" được thực thi.
+Đơn vị kiểm soát theo dõi các byte trong bộ nhớ có chứa chỉ thị để máy tính thực thi, cung cấp cho ALU một chỉ thị cần phải thực thi cũng như chuyển kết quả thu được tới các vị trí thích hợp trong bộ nhớ.
+Sau khi điều đó diễn ra, đơn vị kiểm soát chuyển tới chỉ thị kế tiếp (thông thường nằm tại địa chỉ ngay sau), nếu không thì chỉ thị sẽ là chỉ thị nhảy thông báo cho máy tính là chỉ thị tiếp theo nằm tại một địa chỉ khác.
+Khi tham chiếu tới bộ nhớ, chỉ thị hiện thời có thể sử dụng một số phương thức đánh địa chỉ (addressing mode) để xác định địa chỉ liên quan trong bộ nhớ.
+Một số bo mạch chủ trong máy tính có thể gắn được hai hay nhiều bộ xử lý.
+Các loại máy tính phục vụ thường có hai hay nhiều bộ xử lý.
+Thiết bị ngoại vi (I/O)
+Thiết bị ngoại vi cho phép máy tính thu nhận thông tin từ bên ngoài qua thiết bị nhập.
+Sau khi được xử lý bởi Hệ Điều Hành Trung ương sẻ được gửi kết quả công việc của nó đến Thiết Bị Xuất.
+Các Thiết Bị Nhập bao gồm: Con trỏ (Chuột (máy tính)), bàn phím, Ổ đĩa mềm, Ổ đĩa quang, Webcam, Touchpad
+Các Thiết Bị Xuất bao gồm: màn hình, Máy in, ổ USB flash, Ổ Cứng Di Động tới những thiết bị không thông dụng như Ổ ZIP.
+Công việc của thiết bị nhập (input) là mã hóa (chuyển đổi) thông tin từ nhiều định dạng sang dạng dữ liệu mà máy tính có thể xử lý.
+Các thiết bị xuất (output) thì ngược lại, thực hiện công việc giải mã dữ liệu thành thông tin mà người sử dụng có thể hiểu được.
+Với ý nghĩa này thì hệ thống máy tính có thể coi như một hệ thống xử lý dữ liệu.
+Các chỉ thị
+Tập hợp các ngôn ngữ dùng cho chỉ thị của máy tính thì không nhiều như ngôn ngữ của con người.
+Máy tính có một tập hợp hữu hạn gồm các chỉ thị đơn giản đã được định nghĩa trước.
+Nó chỉ có thể thực thi hai nhiệm vụ là đếm và so sánh.
+Các loại chỉ thị điển hình mà phần lớn máy tính có thể hỗ trợ, chuyển sang ngôn ngữ con người, là "sao chép nội dung ô 123, đặt bản sao đó vào ô 456", "thêm nội dung của ô 666 vào nội dung ô 042, đưa kết quả vào ô 013", "nếu kết quả của ô 999 là 0, chỉ thị tiếp theo nằm tại ô 345"...
+Các chỉ thị trong máy tính tương ứng với mã trong hệ nhị phân - hệ đếm cơ số 2. Ví dụ mã của chỉ thị sao chép ("copy") có thể là 001.
+Tập hợp các chỉ thị mà một máy tính hỗ trợ được gọi là ngôn ngữ máy của máy tính.
+Trong thực tế, người ta thông thường không viết các chỉ thị cho máy tính bằng ngôn ngữ máy mà sử dụng các ngôn ngữ lập trình "bậc cao" để sau đó chúng được dịch sang ngôn ngữ máy một cách tự động bởi các chương trình máy tính đặc biệt (trình thông dịch (interpreter) và trình biên dịch (compiler)).
+Một số ngôn ngữ lập trình rất gần với ngôn ngữ máy như assembler gọi là ngôn ngữ bậc thấp;
+Ngược lại các ngôn ngữ lập trình như Prolog, Basic, Delphi... dựa trên các nguyên lý trừu tượng rất xa với hoạt động thực sự của máy gọi là ngôn ngữ bậc cao.
+Kiến trúc
+Các máy tính hiện đại ghép chung ALU và đơn vị kiểm soát vào trong một IC gọi là đơn vị xử lý trung tâm hay CPU. Thông thường, bộ nhớ máy tính nằm trong một số IC nhỏ gần CPU. Phần lớn trọng lượng máy tính là các bộ phận phụ thuộc như hệ thống cung cấp điện hay các thiết bị đầu/cuối (I/O).
+Một số máy tính lớn khác biệt với mô hình trên ở điểm chính sau - chúng có nhiều CPU và đơn vị kiểm soát hoạt động đồng bộ.
+Ngoài ra, một số máy tính, sử dụng chủ yếu trong nghiên cứu và tính toán khoa học, khác biệt rất đáng kể với mô hình trên, nhưng chúng ít có ứng dụng thương mại vì mô hình lập trình chúng vẫn chưa được chuẩn hóa.
+Vì vậy, hoạt động của máy tính thì không phức tạp trên nguyên lý.
+Thông thường, trong mỗi nhịp đồng hồ, máy tính sẽ nhận được các chỉ thị và dữ liệu từ bộ nhớ của nó.
+Các chỉ thị được thực thi, kết quả được lưu lại và chỉ thị tiếp theo được nhận về.
+Quá trình này tiếp diễn cho đến khi gặp chỉ thị dừng.
+Chương trình máy tính đơn giản chỉ là một danh sách các chỉ thị để máy tính thực thi, có thể với các bảng dữ liệu.
+Rất nhiều chương trình máy tính chứa hàng triệu chỉ thị và rất nhiều chỉ thị được lặp đi lặp lại.
+Một chiếc máy tính thông thường ngày nay (năm 2003) có thể thực hiện 2-3 tỷ chỉ thị trong một giây.
+Máy tính không có các khả năng đặc biệt thông qua việc thực thi các chỉ thị phức tạp mà cơ bản là nó chỉ thực thi các chỉ thị đơn giản do lập trình viên đưa ra.
+Một số lập trình viên giỏi phát triển các tập hợp chỉ thị dùng cho một số công việc chung (như vẽ một điểm trên màn hình) và cung cấp các tập hợp chỉ thị đó cho các lập trình viên khác.
+Một số lập trình viên khác chỉ phát triển các ứng dụng thực tế dựa trên các nền tảng mà các lập trình viên kia cung cấp cho họ.
+Hiện nay, phần lớn máy tính có thể thực hiện cùng một lúc vài chương trình.
+Điều này được gọi là đa nhiệm (multitasking).
+Trên thực tế, CPU thực thi các chỉ thị của một chương trình, sau một khoảng thời gian ngắn, nó chuyển sang thực thi các chỉ thị của chương trình thứ hai v.v.
+Khoảng thời gian ngắn đó được xem như là sự phân chia thời gian của CPU và nó tạo ảo giác như là các chương trình được thực thi đồng thời.
+Điều này cũng tương tự như phim là sự chuyển động đơn giản của các ảnh kế tiếp nhau.
+Hệ điều hành là chương trình thông thường kiểm soát sự phân chia thời gian đó.
+Máy tính cần ít nhất một chương trình luôn luôn chạy để đảm bảo sự hoạt động của nó.
+Trong điều kiện hoạt động bình thường (đối với các máy tính tiêu chuẩn) chương trình này được gọi là hệ điều hành (operating system).
+Hệ điều hành sẽ quyết định chương trình nào được thi hành, khi nào và bao nhiêu tài nguyên (như bộ nhớ hay đầu vào/đầu ra) chúng được cấp.
+Hệ điều hành cũng cung cấp một lớp trừu tượng trên phần cứng và cho phép truy nhập bằng các dịch vụ cung cấp cho các chương trình khác, như mã ("driver") cho phép lập trình viên viết chương trình cho máy tính mà không cần thiết phải biết các chi tiết thuộc bản chất của các thiết bị điện tử đính kèm.
+Phần lớn các hệ điều hành có các lớp trừu tượng phần cứng đều có một giao diện người dùng (user interface) chuẩn hóa.
+Hệ điều hành phổ biến nhất hiện nay là Windows của Microsoft.
+Hệ điều hành đầu tiên của máy tính là hệ điều hành MS-DOS thuộc tập đoàn Microsoft được tạo ra bởi Bill Gates.
