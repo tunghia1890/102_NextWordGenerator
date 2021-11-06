@@ -3,7 +3,7 @@ Next word generator with n-grams algorithm
 
 Preprocessing corpus: **preprocessing/text_preprocessing.py**
 
-Run tessing: **nextword_ast.py**
+Run testing: **nextword_ast.py**
 
 **Corpus:**
   + computer.txt
